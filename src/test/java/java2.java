@@ -3,5 +3,7 @@ public class java2 {
         System.out.println();
         int i;
         i=100;
+        System.out.println(i);
+        System.out.println("tokyo hot");
     }
 }
