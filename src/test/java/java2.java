@@ -5,5 +5,6 @@ public class java2 {
         i=100;
         System.out.println(i);
         System.out.println("tokyo hot");
+        System.out.println("1");
     }
 }
